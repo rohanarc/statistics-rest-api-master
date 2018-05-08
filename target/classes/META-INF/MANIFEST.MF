@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: statistics-rest-api
+Implementation-Version: 1.0.0
+Built-By: sankhro
+Implementation-Vendor-Id: com.n26.statistics
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/statistics-r
+ est-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
